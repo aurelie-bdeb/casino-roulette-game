@@ -6,5 +6,5 @@ This repository contains an American casino roulette table simulation for Androi
 
 ## Installation
 
-1. Clone the repository  ``git clone https://github.com/matiasvallejosdev/casino-roulette-game``
+1. Clone the repository
 2. Open the project using Unity Editor 2020.3.5f1
